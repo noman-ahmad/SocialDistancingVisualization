@@ -28,3 +28,5 @@ Tableau Public Link:
 
 Collaborators: Noman Ahmad, Brian Cheung, Yugine Lama, ZiFeng Teng
 
+Moderator: Dr. Oyewole Oyekoya, Hunter College
+
