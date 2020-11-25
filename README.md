@@ -13,7 +13,7 @@ Usage Instructions:
 Links to Data Sets Used (found in data directory): 
 - Park Encounters :  https://data.cityofnewyork.us/dataset/Social-Distancing-Parks-Ambassador-Data/98ef-fxnm
 - Park Patrol     :  https://data.cityofnewyork.us/dataset/Social-Distancing-Parks-Crowds-Data/gyrw-gvqc   
-- Covid-19 By Zip :  N/A -> Data was removed from it's original link 
+- Covid-19 By Zip :  https://www1.nyc.gov/site/doh/covid/covid-19-data.page  (original Link no longer accesible but this is the source)
 - NYC Park Zones  :  https://nycopendata.socrata.com/City-Government/Parks-Zones/4j29-i5ry
 
 Project File Structure: 
